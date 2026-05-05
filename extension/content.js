@@ -1,5 +1,33 @@
 const BANNER_ID = "avios-reminder-banner";
 
+function debugLog({ location, message, data, hypothesisId, runId = "pre-fix" }) {
+  // #region agent log
+  fetch("http://127.0.0.1:7565/ingest/cef98efd-1734-4272-810d-05b050153ec8", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "X-Debug-Session-Id": "2bd336"
+    },
+    body: JSON.stringify({
+      sessionId: "2bd336",
+      runId,
+      hypothesisId,
+      location,
+      message,
+      data,
+      timestamp: Date.now()
+    })
+  }).catch(() => {});
+  // #endregion
+}
+
+debugLog({
+  location: "content.js:top-level",
+  message: "Content script loaded",
+  data: { href: location.href },
+  hypothesisId: "H3"
+});
+
 function removeBanner() {
   const existing = document.getElementById(BANNER_ID);
   if (existing) existing.remove();
@@ -89,6 +117,12 @@ function showBanner(payload) {
 
 chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
   if (msg?.type === "SHOW_BANNER" && msg.payload) {
+    debugLog({
+      location: "content.js:onMessage",
+      message: "SHOW_BANNER received",
+      data: { href: location.href, matchedDomain: msg.payload.matchedDomain },
+      hypothesisId: "H1"
+    });
     showBanner(msg.payload);
     sendResponse({ ok: true });
     return;

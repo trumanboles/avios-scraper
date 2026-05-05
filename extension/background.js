@@ -25,6 +25,27 @@ const DEFAULT_SETTINGS = {
   remoteDataUrl: DEFAULT_REMOTE_DATA_URL
 };
 
+function debugLog({ location, message, data, hypothesisId, runId = "pre-fix" }) {
+  // #region agent log
+  fetch("http://127.0.0.1:7565/ingest/cef98efd-1734-4272-810d-05b050153ec8", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "X-Debug-Session-Id": "2bd336"
+    },
+    body: JSON.stringify({
+      sessionId: "2bd336",
+      runId,
+      hypothesisId,
+      location,
+      message,
+      data,
+      timestamp: Date.now()
+    })
+  }).catch(() => {});
+  // #endregion
+}
+
 let runtimeData = {
   domain_map: {},
   retailers: {},
@@ -141,8 +162,20 @@ async function refreshData() {
 async function getReferrerFromTab(tabId) {
   try {
     const response = await chrome.tabs.sendMessage(tabId, { type: "GET_PAGE_CONTEXT" });
+    debugLog({
+      location: "background.js:getReferrerFromTab",
+      message: "GET_PAGE_CONTEXT succeeded",
+      data: { tabId, hasReferrer: Boolean(response?.referrer) },
+      hypothesisId: "H2"
+    });
     return response?.referrer || "";
-  } catch {
+  } catch (err) {
+    debugLog({
+      location: "background.js:getReferrerFromTab",
+      message: "GET_PAGE_CONTEXT failed",
+      data: { tabId, error: String(err) },
+      hypothesisId: "H2"
+    });
     return "";
   }
 }
@@ -224,19 +257,52 @@ async function processNavigation(details) {
   await chrome.storage.session.set({ tabRetailerMatches });
 
   if (suppressed) {
+    debugLog({
+      location: "background.js:processNavigation",
+      message: "Reminder suppressed",
+      data: { tabId: details.tabId, url: details.url, matchedDomain: match.matchedDomain },
+      hypothesisId: "H4"
+    });
     await clearTabBadge(details.tabId);
     return;
   }
 
-  await setTabBadge(details.tabId, "✓", `${match.retailer.name} offers Avios`);
-  await chrome.tabs.sendMessage(details.tabId, {
-    type: "SHOW_BANNER",
-    payload: {
-      retailer: match.retailer,
+  debugLog({
+    location: "background.js:processNavigation",
+    message: "Attempting SHOW_BANNER send",
+    data: {
+      tabId: details.tabId,
+      url: details.url,
       matchedDomain: match.matchedDomain,
       isCheckout: isCheckoutLike(details.url)
-    }
+    },
+    hypothesisId: "H1"
   });
+  await setTabBadge(details.tabId, "✓", `${match.retailer.name} offers Avios`);
+  try {
+    await chrome.tabs.sendMessage(details.tabId, {
+      type: "SHOW_BANNER",
+      payload: {
+        retailer: match.retailer,
+        matchedDomain: match.matchedDomain,
+        isCheckout: isCheckoutLike(details.url)
+      }
+    });
+    debugLog({
+      location: "background.js:processNavigation",
+      message: "SHOW_BANNER acknowledged by content script",
+      data: { tabId: details.tabId, matchedDomain: match.matchedDomain },
+      hypothesisId: "H1"
+    });
+  } catch (err) {
+    debugLog({
+      location: "background.js:processNavigation",
+      message: "SHOW_BANNER send failed",
+      data: { tabId: details.tabId, url: details.url, error: String(err) },
+      hypothesisId: "H1"
+    });
+    throw err;
+  }
 }
 
 chrome.runtime.onInstalled.addListener(async () => {
