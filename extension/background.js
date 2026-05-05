@@ -46,6 +46,8 @@ function debugLog({ location, message, data, hypothesisId, runId = "pre-fix" }) 
   // #endregion
 }
 
+const pendingBannerByTabId = new Map();
+
 let runtimeData = {
   domain_map: {},
   retailers: {},
@@ -280,14 +282,15 @@ async function processNavigation(details) {
   });
   await setTabBadge(details.tabId, "✓", `${match.retailer.name} offers Avios`);
   try {
-    await chrome.tabs.sendMessage(details.tabId, {
+    const bannerMessage = {
       type: "SHOW_BANNER",
       payload: {
         retailer: match.retailer,
         matchedDomain: match.matchedDomain,
         isCheckout: isCheckoutLike(details.url)
       }
-    });
+    };
+    await chrome.tabs.sendMessage(details.tabId, bannerMessage);
     debugLog({
       location: "background.js:processNavigation",
       message: "SHOW_BANNER acknowledged by content script",
@@ -301,6 +304,21 @@ async function processNavigation(details) {
       data: { tabId: details.tabId, url: details.url, error: String(err) },
       hypothesisId: "H1"
     });
+    if (String(err).includes("Receiving end does not exist")) {
+      pendingBannerByTabId.set(details.tabId, {
+        message: bannerMessage,
+        matchedDomain: match.matchedDomain,
+        url: details.url
+      });
+      debugLog({
+        location: "background.js:processNavigation",
+        message: "Queued SHOW_BANNER retry for tab completion",
+        data: { tabId: details.tabId, matchedDomain: match.matchedDomain },
+        hypothesisId: "H5",
+        runId: "post-fix"
+      });
+      return;
+    }
     throw err;
   }
 }
@@ -325,6 +343,32 @@ chrome.alarms.onAlarm.addListener(async (alarm) => {
 
 chrome.webNavigation.onCommitted.addListener(processNavigation, {
   url: [{ schemes: ["http", "https"] }]
+});
+
+chrome.tabs.onUpdated.addListener(async (tabId, changeInfo) => {
+  if (changeInfo.status !== "complete") return;
+  const pending = pendingBannerByTabId.get(tabId);
+  if (!pending) return;
+
+  try {
+    await chrome.tabs.sendMessage(tabId, pending.message);
+    pendingBannerByTabId.delete(tabId);
+    debugLog({
+      location: "background.js:tabs.onUpdated",
+      message: "Queued SHOW_BANNER retry delivered after tab complete",
+      data: { tabId, matchedDomain: pending.matchedDomain, url: pending.url },
+      hypothesisId: "H5",
+      runId: "post-fix"
+    });
+  } catch (err) {
+    debugLog({
+      location: "background.js:tabs.onUpdated",
+      message: "Queued SHOW_BANNER retry failed after tab complete",
+      data: { tabId, matchedDomain: pending.matchedDomain, error: String(err) },
+      hypothesisId: "H5",
+      runId: "post-fix"
+    });
+  }
 });
 
 chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
