@@ -1,6 +1,6 @@
 const BUNDLED_DATA_PATH = "data/retailers.json";
 const DEFAULT_REMOTE_DATA_URL =
-  "https://raw.githubusercontent.com/example/avios-scraper/main/extension/data/retailers.json";
+  "https://raw.githubusercontent.com/trumanboles/avios-scraper/main/extension/data/retailers.json";
 const REFRESH_ALARM = "weeklyRetailerRefresh";
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
 const DISMISS_MS = 30 * 60 * 1000;
