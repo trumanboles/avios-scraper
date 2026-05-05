@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Avios Reminder Settings</title>
+    <style>
+      body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 24px; color: #111827; max-width: 760px; }
+      .card { border: 1px solid #e5e7eb; border-radius: 10px; padding: 14px; margin-top: 12px; }
+      .muted { color: #6b7280; font-size: 13px; }
+      label { display: block; margin: 8px 0; }
+      button { border: 0; border-radius: 8px; padding: 8px 10px; cursor: pointer; background: #0f766e; color: white; }
+      input[type="text"] { width: 100%; border: 1px solid #d1d5db; border-radius: 8px; padding: 8px; }
+      ul { list-style: none; padding: 0; margin-top: 8px; }
+      li { border-top: 1px solid #f3f4f6; padding: 8px 0; display: flex; justify-content: space-between; align-items: center; }
+      .pill { background: #e5e7eb; border: 0; color: #111827; padding: 6px 8px; border-radius: 8px; }
+      .row { display: flex; gap: 8px; }
+    </style>
+  </head>
+  <body>
+    <h1>Avios Reminder Settings</h1>
+    <div class="muted">Choose how and when reminders appear.</div>
+
+    <div class="card">
+      <label>
+        <input type="radio" name="mode" value="banner" />
+        Banner reminder
+      </label>
+      <label>
+        <input type="radio" name="mode" value="badge" />
+        Badge-only reminder
+      </label>
+      <label>
+        <input id="verified-only" type="checkbox" />
+        Only remind for verified domains (`override`/`click_out`)
+      </label>
+    </div>
+
+    <div class="card">
+      <strong>Skip List</strong>
+      <div class="muted">Never remind me on these domains.</div>
+      <div class="row" style="margin-top: 8px;">
+        <input id="skip-domain-input" type="text" placeholder="amazon.com" />
+        <button id="add-skip" type="button">Add</button>
+      </div>
+      <ul id="skip-list"></ul>
+    </div>
+
+    <div class="card">
+      <strong>Data Updates</strong>
+      <div class="muted" id="last-updated">Last updated: unknown</div>
+      <div style="margin-top:8px;">
+        <button id="refresh-data" type="button">Refresh now</button>
+      </div>
+    </div>
+
+    <script src="options.js"></script>
+  </body>
+</html>

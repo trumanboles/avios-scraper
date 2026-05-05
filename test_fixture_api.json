@@ -1,0 +1,38 @@
+{
+    "data": {
+        "partners": [
+            {
+                "rate": "2 Avios / £1",
+                "wasRate": null,
+                "logoSrc": "https://cdn.rewardengine.com/upload/merchant_featured_14401.83c9c6ee436332a34d3e38bb0a35ad808ee1671e.jpg",
+                "name": "Domino's Pizza",
+                "slug": "dominos-pizza",
+                "destinationUrl": "/retailers/dominos-pizza",
+                "isSpeedyAwarding": false
+            },
+            {
+                "rate": "14 Avios / £1",
+                "wasRate": "Was 4 Avios / £1",
+                "logoSrc": "https://cdn.rewardengine.com/upload/merchant_featured_170018.f04118d2b3b5133467480ca1ffe2c64ec469ce8b370f15f52cf279a91a66b603.jpg",
+                "name": "Viator UK",
+                "slug": "viator-uk",
+                "destinationUrl": "/retailers/viator-uk",
+                "isSpeedyAwarding": false
+            },
+            {
+                "rate": "Up to 12 Avios / £1",
+                "wasRate": "Was up to 6 Avios / £1",
+                "logoSrc": "https://cdn.rewardengine.com/upload/merchant_55464.7bc986f268abdda067ac2e41a31081441d896909.png",
+                "name": "Selfridges",
+                "slug": "selfridges",
+                "destinationUrl": "/retailers/selfridges",
+                "isSpeedyAwarding": false
+            }
+        ],
+        "pagination": {
+            "entries": 60,
+            "total": 2202,
+            "page": 1
+        }
+    }
+}

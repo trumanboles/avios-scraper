@@ -1,0 +1,2791 @@
+{
+  "scraped_at": 1778003814,
+  "source": "https://www.avios.com/collect-avios/shopping/api/partners/",
+  "count": 150,
+  "retailers": {
+    "adidas-uk": {
+      "slug": "adidas-uk",
+      "name": "adidas UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/adidas-uk/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_13891.9e8ca179e273d4c4fbc8f84f5a9b690a79c617fd.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "adidas.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "adidas.co.uk",
+        "adidas.com"
+      ]
+    },
+    "aesop": {
+      "slug": "aesop",
+      "name": "Aesop",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/aesop/",
+      "rate_text": "6 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_596135.2f5f7038bdde7f687ddb30c88b32fbf871146385bd3f453664f917a68ade98c9.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "aesop.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "aesop.com",
+        "aesop.co.uk"
+      ]
+    },
+    "agoda-uk": {
+      "slug": "agoda-uk",
+      "name": "Agoda UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/agoda-uk/",
+      "rate_text": "11 Avios / £1",
+      "was_rate": "Was 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_108554.3d45437d563f749f01f2a58d8abddd82ace3c6d1.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "agoda.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "agoda.co.uk",
+        "agoda.com"
+      ]
+    },
+    "airport-park-with-us": {
+      "slug": "airport-park-with-us",
+      "name": "Airport Park With Us",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/airport-park-with-us/",
+      "rate_text": "6 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_613245.1865f5f336a1e4450019fa35197b8b61ce2187aa70bbf57f3f9ff6d7a939b105.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "airportparkwith.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "airportparkwith.com",
+        "airport-park-with.com",
+        "airport-park-with.co.uk"
+      ]
+    },
+    "allsaints": {
+      "slug": "allsaints",
+      "name": "AllSaints",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/allsaints/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_434.7fdb2d8e6aa2274b24d1f873606aa873aa4f07be682e039ef113adc032a4ed53.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "allsaints.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "allsaints.com",
+        "allsaints.co.uk"
+      ]
+    },
+    "and-other-stories-uk": {
+      "slug": "and-other-stories-uk",
+      "name": "& Other Stories UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/and-other-stories-uk/",
+      "rate_text": "Up to 5 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_485085.338531bc3a023841db6ef5d91903e94389c24873c5eb499cc9ddadad66cb956c.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "andotherstories.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "andotherstories.co.uk",
+        "andotherstories.com",
+        "and-other-stories.com",
+        "and-other-stories.co.uk"
+      ]
+    },
+    "aph-airport-parking-and-hotels": {
+      "slug": "aph-airport-parking-and-hotels",
+      "name": "APH Airport Parking & Hotels",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/aph-airport-parking-and-hotels/",
+      "rate_text": "Up to 15 Avios / £1",
+      "was_rate": "Was up to 10 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1798.332db0054446c5f2556284b040cc0a8abc0859e8.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "aphairportparkingandhotels.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "aphairportparkingandhotels.com",
+        "aphairportparkingandhotels.co.uk",
+        "aph-airport-parking-and-hotels.com",
+        "aph-airport-parking-and-hotels.co.uk"
+      ]
+    },
+    "appleyard-flowers": {
+      "slug": "appleyard-flowers",
+      "name": "Appleyard Flowers",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/appleyard-flowers/",
+      "rate_text": "Up to 30 Avios / £1",
+      "was_rate": "Was up to 7 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_90744.d33ce6f35a8e4ca9a4679e91c28ec2e9ea4b6881.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "appleyardflowers.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "appleyardflowers.com",
+        "appleyardflowers.co.uk",
+        "appleyard-flowers.com",
+        "appleyard-flowers.co.uk"
+      ]
+    },
+    "argoscouk": {
+      "slug": "argoscouk",
+      "name": "Argos.co.uk",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/argoscouk/",
+      "rate_text": "From 1 Avios / £1",
+      "was_rate": "Was from 1 Avios / £2",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_33511.937089958511023d4cac8dec0cba0a33.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "argoscouk.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "argoscouk.com",
+        "argoscouk.co.uk"
+      ]
+    },
+    "aspinal-of-london": {
+      "slug": "aspinal-of-london",
+      "name": "Aspinal of London",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/aspinal-of-london/",
+      "rate_text": "7 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_3161.8ada7f80dc8b9e9821ab2b19453d531f5e0c15be.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "aspinaloflondon.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "aspinaloflondon.com",
+        "aspinaloflondon.co.uk",
+        "aspinal-of-london.com",
+        "aspinal-of-london.co.uk"
+      ]
+    },
+    "b-and-q": {
+      "slug": "b-and-q",
+      "name": "B&Q",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/b-and-q/",
+      "rate_text": "6 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_1460.58ecef9d092ffae81c536beb477e1ca676017807.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "bandq.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "bandq.com",
+        "bandq.co.uk",
+        "b-and-q.com",
+        "b-and-q.co.uk"
+      ]
+    },
+    "b-and-q-tradepoint": {
+      "slug": "b-and-q-tradepoint",
+      "name": "B&Q Tradepoint",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/b-and-q-tradepoint/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_523015.2cb1436594d76c1d956aee502afb1482f4776f27.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "bandqtradepoint.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "bandqtradepoint.com",
+        "bandqtradepoint.co.uk",
+        "b-and-q-tradepoint.com",
+        "b-and-q-tradepoint.co.uk"
+      ]
+    },
+    "bam": {
+      "slug": "bam",
+      "name": "BAM",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/bam/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_511363.77aeacea680a198f1b9c5017b740de59a739ed5d00f693aacb822aa6c299ba6e.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "bam.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "bam.com",
+        "bam.co.uk"
+      ]
+    },
+    "bedkingdom": {
+      "slug": "bedkingdom",
+      "name": "Bedkingdom",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/bedkingdom/",
+      "rate_text": "5 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_508395.b54e4c9639582970b059b92a37cdc37e78125f33.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "bedkingdom.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "bedkingdom.com",
+        "bedkingdom.co.uk"
+      ]
+    },
+    "bigdug": {
+      "slug": "bigdug",
+      "name": "BiGDUG",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/bigdug/",
+      "rate_text": "Up to 6 Avios / £1",
+      "was_rate": "Was up to 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_436595.8ff19f19012901d80f4e773fd0f18376d05df274.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "bigdug.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "bigdug.com",
+        "bigdug.co.uk"
+      ]
+    },
+    "boden-uk": {
+      "slug": "boden-uk",
+      "name": "Boden UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/boden-uk/",
+      "rate_text": "Up to 5 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_667.5ba3b9d93b4c3bac0bb3ba3cbd0b17cf3c1d62f5.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "boden.co.uk"
+      ],
+      "domain_source": "override"
+    },
+    "bookingcom-uk": {
+      "slug": "bookingcom-uk",
+      "name": "Booking.com UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/bookingcom-uk/",
+      "rate_text": "Up to 6 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_94234.71b1ac9be8ce9b1b5fc595788cdc216cc1288dd0.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "bookingcom.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "bookingcom.co.uk",
+        "bookingcom.com"
+      ]
+    },
+    "bootscom": {
+      "slug": "bootscom",
+      "name": "Boots.com",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/bootscom/",
+      "rate_text": "6 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_2080.9df0bb38c28999d7320a0f3d39476818950b06b7.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "bootscom.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "bootscom.com",
+        "bootscom.co.uk"
+      ]
+    },
+    "brewers-decorator-centres": {
+      "slug": "brewers-decorator-centres",
+      "name": "Brewers Decorator Centres",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/brewers-decorator-centres/",
+      "rate_text": "5 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_514185.872696409efe10f1e4d9662934f52c8748f6f26d.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "brewersdecoratorcentres.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "brewersdecoratorcentres.com",
+        "brewersdecoratorcentres.co.uk",
+        "brewers-decorator-centres.com",
+        "brewers-decorator-centres.co.uk"
+      ]
+    },
+    "buyagift": {
+      "slug": "buyagift",
+      "name": "Buyagift",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/buyagift/",
+      "rate_text": "12 Avios / £1",
+      "was_rate": "Was 7 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_165.b6e0f3c30acdd5cc7dbc30b10de710b6f4c0da298a5cd548a6725d7aae78aec9.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "buyagift.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "buyagift.com",
+        "buyagift.co.uk"
+      ]
+    },
+    "canon-uk": {
+      "slug": "canon-uk",
+      "name": "Canon UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/canon-uk/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_123828.5a3ce58ebfdd3d2b70d67c156a1e85019af99c2c.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "canon.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "canon.co.uk",
+        "canon.com"
+      ]
+    },
+    "charles-tyrwhitt-uk": {
+      "slug": "charles-tyrwhitt-uk",
+      "name": "Charles Tyrwhitt UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/charles-tyrwhitt-uk/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1735.117b68f18d8b3215425346744d5845dd2584b705.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "ctshirts.com"
+      ],
+      "domain_source": "override"
+    },
+    "charlotte-tilbury": {
+      "slug": "charlotte-tilbury",
+      "name": "Charlotte Tilbury",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/charlotte-tilbury/",
+      "rate_text": "6 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_110888.b1367333fdba7cbbfa2fb970f527056255d74e44.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "charlottetilbury.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "charlottetilbury.com",
+        "charlottetilbury.co.uk",
+        "charlotte-tilbury.com",
+        "charlotte-tilbury.co.uk"
+      ]
+    },
+    "childrensalon-uk": {
+      "slug": "childrensalon-uk",
+      "name": "Childrensalon UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/childrensalon-uk/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_426465.03cc6f8d20f1cf0fcce1b40a0a730e66ec3c375bed98fc0ae9c7d58cff736b1b.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "childrensalon.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "childrensalon.co.uk",
+        "childrensalon.com"
+      ]
+    },
+    "columbus-direct-travel-insurance": {
+      "slug": "columbus-direct-travel-insurance",
+      "name": "Columbus Direct Travel Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/columbus-direct-travel-insurance/",
+      "rate_text": "23 Avios / £1",
+      "was_rate": "Was 18 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_4.77782f40888e8be337448b2c63dc920c8d431159.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "columbusdirecttravelinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "columbusdirecttravelinsurance.com",
+        "columbusdirecttravelinsurance.co.uk",
+        "columbus-direct-travel-insurance.com",
+        "columbus-direct-travel-insurance.co.uk"
+      ]
+    },
+    "confusedcom-car-insurance": {
+      "slug": "confusedcom-car-insurance",
+      "name": "Confused.com Car Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/confusedcom-car-insurance/",
+      "rate_text": "3,600 Avios",
+      "was_rate": "Was 2,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_365845.ee08162e2ae28d1ab16f41480824c5906e963fe5.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "confusedcomcarinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "confusedcomcarinsurance.com",
+        "confusedcomcarinsurance.co.uk",
+        "confusedcom-car-insurance.com",
+        "confusedcom-car-insurance.co.uk"
+      ]
+    },
+    "confusedcom-home-insurance": {
+      "slug": "confusedcom-home-insurance",
+      "name": "Confused.com Home Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/confusedcom-home-insurance/",
+      "rate_text": "3,600 Avios",
+      "was_rate": "Was 2,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_365875.d04021cb50ac13f41509479a77c3d82192c4712c.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "confusedcomhomeinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "confusedcomhomeinsurance.com",
+        "confusedcomhomeinsurance.co.uk",
+        "confusedcom-home-insurance.com",
+        "confusedcom-home-insurance.co.uk"
+      ]
+    },
+    "confusedcom-motorbike-insurance": {
+      "slug": "confusedcom-motorbike-insurance",
+      "name": "Confused.com Motorbike Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/confusedcom-motorbike-insurance/",
+      "rate_text": "2,000 Avios",
+      "was_rate": "Was 1,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_370215.c4e43a1249a612c0b0226b1139beefd632c6669d.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "confusedcommotorbikeinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "confusedcommotorbikeinsurance.com",
+        "confusedcommotorbikeinsurance.co.uk",
+        "confusedcom-motorbike-insurance.com",
+        "confusedcom-motorbike-insurance.co.uk"
+      ]
+    },
+    "confusedcom-pet-insurance": {
+      "slug": "confusedcom-pet-insurance",
+      "name": "Confused.com Pet Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/confusedcom-pet-insurance/",
+      "rate_text": "Up to 3,500 Avios",
+      "was_rate": "Was up to 1,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_520355.64d4a41b4ac902762341015619b28a6af42c171e.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "confusedcompetinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "confusedcompetinsurance.com",
+        "confusedcompetinsurance.co.uk",
+        "confusedcom-pet-insurance.com",
+        "confusedcom-pet-insurance.co.uk"
+      ]
+    },
+    "confusedcom-travel-insurance": {
+      "slug": "confusedcom-travel-insurance",
+      "name": "Confused.com Travel Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/confusedcom-travel-insurance/",
+      "rate_text": "Up to 3,800 Avios",
+      "was_rate": "Was up to 1,500 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_519005.cc26cb72049672863c311fb48540f240e3d75301.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "confusedcomtravelinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "confusedcomtravelinsurance.com",
+        "confusedcomtravelinsurance.co.uk",
+        "confusedcom-travel-insurance.com",
+        "confusedcom-travel-insurance.co.uk"
+      ]
+    },
+    "confusedcom-van-insurance": {
+      "slug": "confusedcom-van-insurance",
+      "name": "Confused.com Van Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/confusedcom-van-insurance/",
+      "rate_text": "3,800 Avios",
+      "was_rate": "Was 2,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_370205.89fe17a2fbde187798d81690cc0800b546f642ba.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "confusedcomvaninsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "confusedcomvaninsurance.com",
+        "confusedcomvaninsurance.co.uk",
+        "confusedcom-van-insurance.com",
+        "confusedcom-van-insurance.co.uk"
+      ]
+    },
+    "cult-beauty": {
+      "slug": "cult-beauty",
+      "name": "Cult Beauty",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/cult-beauty/",
+      "rate_text": "Up to 9 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_131618.5e9b10c54827c11836dc38349ed36c812ee9fef55ba7bf581f49dc93316978c5.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "cultbeauty.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "cultbeauty.com",
+        "cultbeauty.co.uk",
+        "cult-beauty.com",
+        "cult-beauty.co.uk"
+      ]
+    },
+    "currys": {
+      "slug": "currys",
+      "name": "Currys",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/currys/",
+      "rate_text": "Up to 3 Avios / £1",
+      "was_rate": "Was up to 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1451.0414d0f165f59809259064df9aa0c7ba99c9da7b.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "currys.co.uk"
+      ],
+      "domain_source": "override"
+    },
+    "deliveroo-uk": {
+      "slug": "deliveroo-uk",
+      "name": "Deliveroo UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/deliveroo-uk/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_203718.db7c0dde9bf1b50e430bb7f24e31ca0b7d033dd49f0f144e505beaa5a67e0a53.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "deliveroo.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "deliveroo.co.uk",
+        "deliveroo.com"
+      ]
+    },
+    "diptyque": {
+      "slug": "diptyque",
+      "name": "Diptyque",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/diptyque/",
+      "rate_text": "18 Avios / £1",
+      "was_rate": "Was 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_486425.b436145c0a730be468dcbfa26105f152b08420a5.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "diptyque.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "diptyque.com",
+        "diptyque.co.uk"
+      ]
+    },
+    "disney-store-uk": {
+      "slug": "disney-store-uk",
+      "name": "Disney Store UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/disney-store-uk/",
+      "rate_text": "6 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_33111.3ab5d2d1f94d37216369b8aeb48c2d812f343cba208fda957c7b8c4ac4f78b12.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "shopdisney.co.uk"
+      ],
+      "domain_source": "override"
+    },
+    "dr-martens": {
+      "slug": "dr-martens",
+      "name": "Dr. Martens",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/dr-martens/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_406785.2d2dafb1bba1ad60ce0d67b7458225b28ea7dd4f.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "drmartens.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "drmartens.com",
+        "drmartens.co.uk",
+        "dr-martens.com",
+        "dr-martens.co.uk"
+      ]
+    },
+    "dreams": {
+      "slug": "dreams",
+      "name": "Dreams",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/dreams/",
+      "rate_text": "From 5 Avios / £1",
+      "was_rate": "Was from 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_141.f5549c89a3ea88e1bc518550a3a3290fabfb8bc537aab073be7793e97b489f84.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "dreams.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "dreams.com",
+        "dreams.co.uk"
+      ]
+    },
+    "dunelm": {
+      "slug": "dunelm",
+      "name": "Dunelm",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/dunelm/",
+      "rate_text": "4 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_60334.761b1d435f8bdbc74655421ed8763c357455c216.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "dunelm.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "dunelm.com",
+        "dunelm.co.uk"
+      ]
+    },
+    "dyson-uk": {
+      "slug": "dyson-uk",
+      "name": "Dyson UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/dyson-uk/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_401.d81d5feda55062e2c0e0196255475fd49e68019f.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "dyson.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "dyson.co.uk",
+        "dyson.com"
+      ]
+    },
+    "ego": {
+      "slug": "ego",
+      "name": "EGO",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/ego/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_551655.57a77a187ec910f92520c47fb75d22018138fba7874ad67fbf732126fc49ca9e.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "ego.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "ego.com",
+        "ego.co.uk"
+      ]
+    },
+    "espa": {
+      "slug": "espa",
+      "name": "ESPA",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/espa/",
+      "rate_text": "10 Avios / £1",
+      "was_rate": "Was 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_361085.bc2e3e8158dda642be4c62f3fe84b18d8a986ddac89e56e2b37a05733f60874f.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "espa.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "espa.com",
+        "espa.co.uk"
+      ]
+    },
+    "farfetch-uk": {
+      "slug": "farfetch-uk",
+      "name": "FARFETCH UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/farfetch-uk/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_89314.ef00d085f63a43c326dfddfda8ca1821e7b49336.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "farfetch.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "farfetch.co.uk",
+        "farfetch.com"
+      ]
+    },
+    "flannels": {
+      "slug": "flannels",
+      "name": "Flannels",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/flannels/",
+      "rate_text": "Up to 8 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_226008.5b28cf557cc01430b492d69af8131e3490ecc316.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "flannels.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "flannels.com",
+        "flannels.co.uk"
+      ]
+    },
+    "frasers": {
+      "slug": "frasers",
+      "name": "FRASERS",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/frasers/",
+      "rate_text": "Up to 8 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1669.527cc8e53f5c2fd4b254fa47347c4c0475b70fa9af8eff368d972bbdc16fb09a.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "frasers.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "frasers.com",
+        "frasers.co.uk"
+      ]
+    },
+    "freddies-flowers": {
+      "slug": "freddies-flowers",
+      "name": "Freddie's Flowers",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/freddies-flowers/",
+      "rate_text": "700 Avios",
+      "was_rate": "Was 500 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_410615.77fcf261d74932bd7531f915277fa73ddbddc218.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "freddiesflowers.com"
+      ],
+      "domain_source": "override"
+    },
+    "ful-london": {
+      "slug": "ful-london",
+      "name": "Ful London",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/ful-london/",
+      "rate_text": "50 Avios / £1",
+      "was_rate": "Was 10 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_538525.5880c3c504ef232f83bf9941839135e4432fe8923f7b6e934a0d4bd9ae0d202d.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "fullondon.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "fullondon.com",
+        "fullondon.co.uk",
+        "ful-london.com",
+        "ful-london.co.uk"
+      ]
+    },
+    "funky-pigeon": {
+      "slug": "funky-pigeon",
+      "name": "Funky Pigeon",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/funky-pigeon/",
+      "rate_text": "12 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_499005.a4aa52f2db7930f4c5eca69f48218c46cbae7c7a36a377e89cc365bc847164a3.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "funkypigeon.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "funkypigeon.com",
+        "funkypigeon.co.uk",
+        "funky-pigeon.com",
+        "funky-pigeon.co.uk"
+      ]
+    },
+    "garden-trading": {
+      "slug": "garden-trading",
+      "name": "Garden Trading",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/garden-trading/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_559005.8e667d04fa2e4e1f37b007ebb8e49de3bfc4fdfb0a52c14eccbb642cd7718fef.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "gardentrading.co.uk"
+      ],
+      "domain_source": "override"
+    },
+    "getyourguide": {
+      "slug": "getyourguide",
+      "name": "GetYourGuide",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/getyourguide/",
+      "rate_text": "10 Avios / £1",
+      "was_rate": "Was 7 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_486385.1e806aa626a1c1eabfe5d5e8badc90aa9e2ba667a298201d5c8e69775feb6df7.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "getyourguide.com",
+        "getyourguide.co.uk"
+      ],
+      "domain_source": "override"
+    },
+    "gocompare-car-insurance": {
+      "slug": "gocompare-car-insurance",
+      "name": "Go.Compare Car Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/gocompare-car-insurance/",
+      "rate_text": "3,500 Avios",
+      "was_rate": "Was 1,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_360365.b7f92be4c9f554fb13a36076f36d53584b6d40bf.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "gocomparecarinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "gocomparecarinsurance.com",
+        "gocomparecarinsurance.co.uk",
+        "gocompare-car-insurance.com",
+        "gocompare-car-insurance.co.uk"
+      ]
+    },
+    "gocompare-home-insurance": {
+      "slug": "gocompare-home-insurance",
+      "name": "Go.Compare Home Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/gocompare-home-insurance/",
+      "rate_text": "3,500 Avios",
+      "was_rate": "Was 1,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_360355.82575201b527349c8ec9ae3c02ee6a2f400bd579.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "gocomparehomeinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "gocomparehomeinsurance.com",
+        "gocomparehomeinsurance.co.uk",
+        "gocompare-home-insurance.com",
+        "gocompare-home-insurance.co.uk"
+      ]
+    },
+    "gocompare-van-insurance": {
+      "slug": "gocompare-van-insurance",
+      "name": "Go.Compare Van Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/gocompare-van-insurance/",
+      "rate_text": "3,500 Avios",
+      "was_rate": "Was 1,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_360515.c05c7742d5a898aae72aadeea4b0f3d6f417983a.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "gocomparevaninsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "gocomparevaninsurance.com",
+        "gocomparevaninsurance.co.uk",
+        "gocompare-van-insurance.com",
+        "gocompare-van-insurance.co.uk"
+      ]
+    },
+    "goldsmiths": {
+      "slug": "goldsmiths",
+      "name": "Goldsmiths",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/goldsmiths/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_461.8c4fa1f8166895bb77cd7489a67351ab8bad91641df3101716e24ae4c8166a99.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "goldsmiths.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "goldsmiths.com",
+        "goldsmiths.co.uk"
+      ]
+    },
+    "gym-king": {
+      "slug": "gym-king",
+      "name": "Gym King",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/gym-king/",
+      "rate_text": "6 Avios / £1",
+      "was_rate": "Was up to 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_409625.3d3b686b6723794d38015b4a955af1654342a606.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "gymking.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "gymking.com",
+        "gymking.co.uk",
+        "gym-king.com",
+        "gym-king.co.uk"
+      ]
+    },
+    "h-and-m-uk": {
+      "slug": "h-and-m-uk",
+      "name": "H&M UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/h-and-m-uk/",
+      "rate_text": "Up to 8 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_259355.e8f6060e8cf1d9ee11776c8b69fedb29bc212f6d.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "handm.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "handm.co.uk",
+        "handm.com",
+        "h-and-m.com",
+        "h-and-m.co.uk"
+      ]
+    },
+    "habitat": {
+      "slug": "habitat",
+      "name": "Habitat",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/habitat/",
+      "rate_text": "Up to 5 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_31781.bea772d0b6cbadb36b34752290f3f312a34167e66ea31b01d9ae8778538a2a8b.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "habitat.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "habitat.com",
+        "habitat.co.uk"
+      ]
+    },
+    "harrods": {
+      "slug": "harrods",
+      "name": "Harrods",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/harrods/",
+      "rate_text": "Up to 13 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_79654.2e737191ead19bfe76ec6e57f350bee54f22850c2235d0f1702e0bdb896106b8.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "harrods.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "harrods.com",
+        "harrods.co.uk"
+      ]
+    },
+    "harvey-nichols": {
+      "slug": "harvey-nichols",
+      "name": "Harvey Nichols",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/harvey-nichols/",
+      "rate_text": "Up to 14 Avios / £1",
+      "was_rate": "Was up to 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_100124.26849354358e047628a6598563ff8e4a801eca58.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "harveynichols.com"
+      ],
+      "domain_source": "override"
+    },
+    "healthspan": {
+      "slug": "healthspan",
+      "name": "Healthspan",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/healthspan/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_380595.e60bf541be63003f7fb249a7ba63989b74cfc272.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "healthspan.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "healthspan.com",
+        "healthspan.co.uk"
+      ]
+    },
+    "herman-miller": {
+      "slug": "herman-miller",
+      "name": "Herman Miller",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/herman-miller/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_577205.b6910b884fba275623f250f02bbdf0795756958b8c8ec0d4666f6f4794bcecbd.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "hermanmiller.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "hermanmiller.com",
+        "hermanmiller.co.uk",
+        "herman-miller.com",
+        "herman-miller.co.uk"
+      ]
+    },
+    "hobbycraft": {
+      "slug": "hobbycraft",
+      "name": "Hobbycraft",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/hobbycraft/",
+      "rate_text": "Up to 5 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_88754.5243ba364611da3cfa37788ba4c24e1a620cc114.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "hobbycraft.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "hobbycraft.com",
+        "hobbycraft.co.uk"
+      ]
+    },
+    "holiday-extras": {
+      "slug": "holiday-extras",
+      "name": "Holiday Extras",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/holiday-extras/",
+      "rate_text": "4 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_255.e979bf0129cd9e7918090a37f1f345252f0aa2b2.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "holidayextras.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "holidayextras.com",
+        "holidayextras.co.uk",
+        "holiday-extras.com",
+        "holiday-extras.co.uk"
+      ]
+    },
+    "holland-and-barrett": {
+      "slug": "holland-and-barrett",
+      "name": "Holland & Barrett",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/holland-and-barrett/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_698.1c387f6d07fa4a0a72729592ec3d6351118a70e6718b15a77fa05c6cc904c813.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "hollandandbarrett.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "hollandandbarrett.com",
+        "hollandandbarrett.co.uk",
+        "holland-and-barrett.com",
+        "holland-and-barrett.co.uk"
+      ]
+    },
+    "iherb-uk": {
+      "slug": "iherb-uk",
+      "name": "iHerb UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/iherb-uk/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_380565.61776e3eb3b07fa688a89c0e65dbadf6dadce5b8.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "iherb.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "iherb.co.uk",
+        "iherb.com"
+      ]
+    },
+    "it-luggage": {
+      "slug": "it-luggage",
+      "name": "it Luggage",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/it-luggage/",
+      "rate_text": "6 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_503035.b7776d36a8fbaaee976306066819958a60cdd588.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "itluggage.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "itluggage.com",
+        "itluggage.co.uk",
+        "it-luggage.com",
+        "it-luggage.co.uk"
+      ]
+    },
+    "jd-sports": {
+      "slug": "jd-sports",
+      "name": "JD Sports",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/jd-sports/",
+      "rate_text": "Up to 9 Avios / £1",
+      "was_rate": "Was up to 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_622.1ec99554b3dda4ccb1cc8bbdb36bf88875f73e5a.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "jdsports.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "jdsports.com",
+        "jdsports.co.uk",
+        "jd-sports.com",
+        "jd-sports.co.uk"
+      ]
+    },
+    "jd-williams": {
+      "slug": "jd-williams",
+      "name": "JD Williams",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/jd-williams/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_45681.ecc99383294b81dc36c05d185297f0bd93ee527c.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "jdwilliams.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "jdwilliams.com",
+        "jdwilliams.co.uk",
+        "jd-williams.com",
+        "jd-williams.co.uk"
+      ]
+    },
+    "john-lewis-and-partners": {
+      "slug": "john-lewis-and-partners",
+      "name": "John Lewis & Partners",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/john-lewis-and-partners/",
+      "rate_text": "Up to 2 Avios / £1",
+      "was_rate": "Was up to 1 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_403.c6491d608e0f90d87ce6e096d537d5fe22b210934ea12a6a84ee4b88212ea1f1.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "johnlewis.com"
+      ],
+      "domain_source": "override"
+    },
+    "karen-millen": {
+      "slug": "karen-millen",
+      "name": "Karen Millen",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/karen-millen/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_30321.970b83d9e38945c77f29dff7ed90e0ad1c0076b5.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "karenmillen.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "karenmillen.com",
+        "karenmillen.co.uk",
+        "karen-millen.com",
+        "karen-millen.co.uk"
+      ]
+    },
+    "kerastase-uk": {
+      "slug": "kerastase-uk",
+      "name": "Kerastase UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/kerastase-uk/",
+      "rate_text": "15 Avios / £1",
+      "was_rate": "Was 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_156908.3daeb065c03404e484a469b0f69d25d13ef2b4fc.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "kerastase.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "kerastase.co.uk",
+        "kerastase.com"
+      ]
+    },
+    "klook-uk": {
+      "slug": "klook-uk",
+      "name": "Klook UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/klook-uk/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_366785.e1603f2011f61a2248c6a97db86175f912e19457629a0585fa9aa25b6a5745f6.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "klook.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "klook.co.uk",
+        "klook.com"
+      ]
+    },
+    "la-roche-posay-uk": {
+      "slug": "la-roche-posay-uk",
+      "name": "La Roche-Posay UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/la-roche-posay-uk/",
+      "rate_text": "12 Avios / £1",
+      "was_rate": "Was 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_301185.6add41530002604ac25506385e2f8d46.PNG",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "larocheposay.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "larocheposay.co.uk",
+        "larocheposay.com",
+        "la-roche-posay.com",
+        "la-roche-posay.co.uk"
+      ]
+    },
+    "lego-uk": {
+      "slug": "lego-uk",
+      "name": "LEGO UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/lego-uk/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_1670.7f3e41210ad94166d454a1d6d0ced293.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "lego.com"
+      ],
+      "domain_source": "override"
+    },
+    "lenstore": {
+      "slug": "lenstore",
+      "name": "Lenstore",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/lenstore/",
+      "rate_text": "Up to 9 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_472735.6a1159ede29ffeb192360cd09dc6286edb99ea2a.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "lenstore.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "lenstore.com",
+        "lenstore.co.uk"
+      ]
+    },
+    "levis-uk": {
+      "slug": "levis-uk",
+      "name": "Levi’s® UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/levis-uk/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_87334.2b79517dab2df91e1123ef354ab4121a3f3e43607c877bd27dc33b0b65486042.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "levi.com"
+      ],
+      "domain_source": "override"
+    },
+    "lightscouk": {
+      "slug": "lightscouk",
+      "name": "Lights.co.uk",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/lightscouk/",
+      "rate_text": "13 Avios / £1",
+      "was_rate": "Was 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_286465.585a069f7a0e322f932bfba3de1994932c4cc95b.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "lightscouk.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "lightscouk.com",
+        "lightscouk.co.uk"
+      ]
+    },
+    "london-eye": {
+      "slug": "london-eye",
+      "name": "London Eye",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/london-eye/",
+      "rate_text": "7 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_65384.e916663706daf6184ab9ea3026c96a9b79b7230e6e43d6e4d3b177198262bd2b.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "londoneye.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "londoneye.com",
+        "londoneye.co.uk",
+        "london-eye.com",
+        "london-eye.co.uk"
+      ]
+    },
+    "lookfantastic": {
+      "slug": "lookfantastic",
+      "name": "LOOKFANTASTIC",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/lookfantastic/",
+      "rate_text": "Up to 15 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_31231.5a8932b95c318977a1517a9c10d421284bced613.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "lookfantastic.com"
+      ],
+      "domain_source": "override"
+    },
+    "lululemon-uk": {
+      "slug": "lululemon-uk",
+      "name": "lululemon UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/lululemon-uk/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_201388.7c7931b5bae4db7313dfc30d3d2b1a17b835d639.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "lululemon.co.uk"
+      ],
+      "domain_source": "override"
+    },
+    "m-and-s-flowers-and-hampers": {
+      "slug": "m-and-s-flowers-and-hampers",
+      "name": "M&S Flowers & Hampers",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/m-and-s-flowers-and-hampers/",
+      "rate_text": "Up to 8 Avios / £1",
+      "was_rate": "Was up to 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_410665.d6cfedfe6568580810e3e45ac30ceed9a495dc2d.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "mandsflowersandhampers.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "mandsflowersandhampers.com",
+        "mandsflowersandhampers.co.uk",
+        "m-and-s-flowers-and-hampers.com",
+        "m-and-s-flowers-and-hampers.co.uk"
+      ]
+    },
+    "marks-and-spencer": {
+      "slug": "marks-and-spencer",
+      "name": "Marks & Spencer",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/marks-and-spencer/",
+      "rate_text": "Up to 4 Avios / £1",
+      "was_rate": "Was up to 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_379.81066d9622e39645738f3432400efa8cbe9ce4ce.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "marksandspencer.com"
+      ],
+      "domain_source": "override"
+    },
+    "marriott-bonvoy": {
+      "slug": "marriott-bonvoy",
+      "name": "Marriott Bonvoy",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/marriott-bonvoy/",
+      "rate_text": "7 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_1797.d88b5221768204c74ddb066f2c1a6996a0176308.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "marriottbonvoy.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "marriottbonvoy.com",
+        "marriottbonvoy.co.uk",
+        "marriott-bonvoy.com",
+        "marriott-bonvoy.co.uk"
+      ]
+    },
+    "miele": {
+      "slug": "miele",
+      "name": "Miele",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/miele/",
+      "rate_text": "5 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_590155.c721f7565105d8c1e597eb6e5503acb43991476a1a1c10ec6e5206efc6596361.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "miele.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "miele.com",
+        "miele.co.uk"
+      ]
+    },
+    "miu-miu-uk": {
+      "slug": "miu-miu-uk",
+      "name": "Miu Miu UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/miu-miu-uk/",
+      "rate_text": "10 Avios / £1",
+      "was_rate": "Was 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_476625.249b26573dfe32b6461c757de734f632b5bb919c.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "miumiu.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "miumiu.co.uk",
+        "miumiu.com",
+        "miu-miu.com",
+        "miu-miu.co.uk"
+      ]
+    },
+    "molton-brown": {
+      "slug": "molton-brown",
+      "name": "Molton Brown",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/molton-brown/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_57174.2c2059d6b42acaad59e20db0fec219f7cbe327c9.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "moltonbrown.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "moltonbrown.com",
+        "moltonbrown.co.uk",
+        "molton-brown.com",
+        "molton-brown.co.uk"
+      ]
+    },
+    "mr-porter-uk": {
+      "slug": "mr-porter-uk",
+      "name": "MR PORTER UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/mr-porter-uk/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_88114.57913bcdf70feafef0fe72fdf4b675aa1ee94378.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "mrporter.com"
+      ],
+      "domain_source": "override"
+    },
+    "myproteincom-uk": {
+      "slug": "myproteincom-uk",
+      "name": "Myprotein.com UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/myproteincom-uk/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was up to 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_66494.bd19a55268c07c0b2c68a65604a4f8c98533eaf4.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "myproteincom.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "myproteincom.co.uk",
+        "myproteincom.com"
+      ]
+    },
+    "nails-inc": {
+      "slug": "nails-inc",
+      "name": "Nails inc",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/nails-inc/",
+      "rate_text": "Up to 14 Avios / £1",
+      "was_rate": "Was up to 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1766.468c8ce2e73fd71cb80a36f060a22e1cb6281166.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "nailsinc.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "nailsinc.com",
+        "nailsinc.co.uk",
+        "nails-inc.com",
+        "nails-inc.co.uk"
+      ]
+    },
+    "national-express": {
+      "slug": "national-express",
+      "name": "National Express",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/national-express/",
+      "rate_text": "4 Avios / £1",
+      "was_rate": "Was 1 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1346.d0b28415f63c746b8ba1a9c776c280a651f7dba4.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "nationalexpress.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "nationalexpress.com",
+        "nationalexpress.co.uk",
+        "national-express.com",
+        "national-express.co.uk"
+      ]
+    },
+    "nespresso-coffee": {
+      "slug": "nespresso-coffee",
+      "name": "Nespresso Coffee",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/nespresso-coffee/",
+      "rate_text": "Up to 6 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_267775.5ca0058936ec33fbe200e4877a9ac620476076a8.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "nespressocoffee.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "nespressocoffee.com",
+        "nespressocoffee.co.uk",
+        "nespresso-coffee.com",
+        "nespresso-coffee.co.uk"
+      ]
+    },
+    "new-balance-uk": {
+      "slug": "new-balance-uk",
+      "name": "New Balance UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/new-balance-uk/",
+      "rate_text": "10 Avios / £1",
+      "was_rate": "Was 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_91864.445ccc23afff137a9fac25455831b64e62d85bf3.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "newbalance.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "newbalance.co.uk",
+        "newbalance.com",
+        "new-balance.com",
+        "new-balance.co.uk"
+      ]
+    },
+    "new-look": {
+      "slug": "new-look",
+      "name": "New Look",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/new-look/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1701.c6832e7bd9deacda04f350c75df59ed7afaee9dbe8eecc490769ccc9b817e4c9.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "newlook.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "newlook.com",
+        "newlook.co.uk",
+        "new-look.com",
+        "new-look.co.uk"
+      ]
+    },
+    "nike-uk": {
+      "slug": "nike-uk",
+      "name": "Nike UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/nike-uk/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_1366.7530152bbabc0ac583804c5fcf53ef25.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "nike.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "nike.co.uk",
+        "nike.com"
+      ]
+    },
+    "nobodys-child": {
+      "slug": "nobodys-child",
+      "name": "Nobody's Child",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/nobodys-child/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_509025.265f624aeb9ab2f120f2e7aa79f1cb4b3da4aa69.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "nobodyschild.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "nobodyschild.com",
+        "nobodyschild.co.uk",
+        "nobodys-child.com",
+        "nobodys-child.co.uk"
+      ]
+    },
+    "oakley-uk": {
+      "slug": "oakley-uk",
+      "name": "Oakley UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/oakley-uk/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was up to 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_134658.3c53ec7e429a837958f17cbd09cf9ad3ed671936.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "oakley.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "oakley.co.uk",
+        "oakley.com"
+      ]
+    },
+    "oddballs": {
+      "slug": "oddballs",
+      "name": "OddBalls",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/oddballs/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was up to 9 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_334205.63408e164f7a3456fe526809b836a164d8c4e2ac829911f513597e4d2782bb17.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "oddballs.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "oddballs.com",
+        "oddballs.co.uk"
+      ]
+    },
+    "official-gatwick-airport-parking": {
+      "slug": "official-gatwick-airport-parking",
+      "name": "Official Gatwick Airport Parking",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/official-gatwick-airport-parking/",
+      "rate_text": "5 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_60354.16addd8ad2515ec6466402b60b630c1368414dee.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "officialgatwickairportparking.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "officialgatwickairportparking.com",
+        "officialgatwickairportparking.co.uk",
+        "official-gatwick-airport-parking.com",
+        "official-gatwick-airport-parking.co.uk"
+      ]
+    },
+    "panda": {
+      "slug": "panda",
+      "name": "Panda",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/panda/",
+      "rate_text": "6 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1685981.88fe517a407241789b4a4ba472a0a0d433834deb842e6d221a249891430bd24a.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "panda.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "panda.com",
+        "panda.co.uk"
+      ]
+    },
+    "paul-smith": {
+      "slug": "paul-smith",
+      "name": "Paul Smith",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/paul-smith/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_99224.13428e06d37f7100be4dd61a344411172558b453.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "paulsmith.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "paulsmith.com",
+        "paulsmith.co.uk",
+        "paul-smith.com",
+        "paul-smith.co.uk"
+      ]
+    },
+    "pets-at-home": {
+      "slug": "pets-at-home",
+      "name": "Pets at Home",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/pets-at-home/",
+      "rate_text": "4 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1865.34f636731c3ee7f71ad647e0404653dd2c89d7ac.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "petsathome.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "petsathome.com",
+        "petsathome.co.uk",
+        "pets-at-home.com",
+        "pets-at-home.co.uk"
+      ]
+    },
+    "phase-eight": {
+      "slug": "phase-eight",
+      "name": "Phase Eight",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/phase-eight/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_117318.8ba930c42aa36becc0c02fa7c4789a5d12c699e7.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "phaseeight.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "phaseeight.com",
+        "phaseeight.co.uk",
+        "phase-eight.com",
+        "phase-eight.co.uk"
+      ]
+    },
+    "polarn-o-pyret": {
+      "slug": "polarn-o-pyret",
+      "name": "Polarn O Pyret",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/polarn-o-pyret/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_129268.c241c5640b226698e75de8930a910f167796c8be.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "polarnopyret.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "polarnopyret.com",
+        "polarnopyret.co.uk",
+        "polarn-o-pyret.com",
+        "polarn-o-pyret.co.uk"
+      ]
+    },
+    "pooch-and-mutt": {
+      "slug": "pooch-and-mutt",
+      "name": "Pooch & Mutt",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/pooch-and-mutt/",
+      "rate_text": "Up to 18 Avios / £1",
+      "was_rate": "Was up to 15 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_518985.5c17be9655f776aa3779403f5127aca4023cb271d020096baeacd7f5e83a6543.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "poochandmutt.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "poochandmutt.com",
+        "poochandmutt.co.uk",
+        "pooch-and-mutt.com",
+        "pooch-and-mutt.co.uk"
+      ]
+    },
+    "premier-inn-uk": {
+      "slug": "premier-inn-uk",
+      "name": "Premier Inn UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/premier-inn-uk/",
+      "rate_text": "Up to 5 Avios / £1",
+      "was_rate": "Was up to 1 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1657581.74bc6fbbd055617328a05e13220aab85de66496fda5c61976c0f062fd9288971.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "premierinn.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "premierinn.co.uk",
+        "premierinn.com",
+        "premier-inn.com",
+        "premier-inn.co.uk"
+      ]
+    },
+    "prep-kitchen": {
+      "slug": "prep-kitchen",
+      "name": "Prep Kitchen",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/prep-kitchen/",
+      "rate_text": "12 Avios / £1",
+      "was_rate": "Was 10 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_573025.3579d5c55dd9562b002ddfcd31f4667247346817af6cb1a2690649f410a986be.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "prepkitchen.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "prepkitchen.com",
+        "prepkitchen.co.uk",
+        "prep-kitchen.com",
+        "prep-kitchen.co.uk"
+      ]
+    },
+    "prettylittlething": {
+      "slug": "prettylittlething",
+      "name": "PrettyLittleThing",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/prettylittlething/",
+      "rate_text": "Up to 8 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_139318.f8813731b6e328e40f5cfbcbbffcc6ed8add0f43.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "prettylittlething.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "prettylittlething.com",
+        "prettylittlething.co.uk"
+      ]
+    },
+    "printerinks": {
+      "slug": "printerinks",
+      "name": "Printerinks",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/printerinks/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 1 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1532.ca216e25211d979b426720c2c6eb99f20aea24d7.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "printerinks.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "printerinks.com",
+        "printerinks.co.uk"
+      ]
+    },
+    "ralph-lauren-uk": {
+      "slug": "ralph-lauren-uk",
+      "name": "Ralph Lauren UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/ralph-lauren-uk/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was up to 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_92774.9e7c1e6402589bccfc253e240a8bfae85c3bc0943466cff3829e8cc94f006c00.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "ralphlauren.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "ralphlauren.co.uk",
+        "ralphlauren.com",
+        "ralph-lauren.com",
+        "ralph-lauren.co.uk"
+      ]
+    },
+    "rat-and-boa": {
+      "slug": "rat-and-boa",
+      "name": "Rat & Boa",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/rat-and-boa/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_563865.231671c40887fe109b36bcb5ebbed4338bdf1f1645211c6c2b36fcd5ced3c98b.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "ratandboa.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "ratandboa.com",
+        "ratandboa.co.uk",
+        "rat-and-boa.com",
+        "rat-and-boa.co.uk"
+      ]
+    },
+    "ray-ban-uk": {
+      "slug": "ray-ban-uk",
+      "name": "Ray-Ban UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/ray-ban-uk/",
+      "rate_text": "Up to 13 Avios / £1",
+      "was_rate": "Was up to 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_297985.4dbe4866b941d5474b03b34877ce8b08.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "rayban.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "rayban.co.uk",
+        "rayban.com",
+        "ray-ban.com",
+        "ray-ban.co.uk"
+      ]
+    },
+    "rixo": {
+      "slug": "rixo",
+      "name": "RIXO",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/rixo/",
+      "rate_text": "Up to 7 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1645341.2ac632d4be382d729f7946ebccd798137c4ae82ca71f704039b388e61439fef9.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "rixo.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "rixo.com",
+        "rixo.co.uk"
+      ]
+    },
+    "samsung-uk": {
+      "slug": "samsung-uk",
+      "name": "Samsung UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/samsung-uk/",
+      "rate_text": "Up to 5 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_115828.c2f75b669b44717140a00ecd9d12f71a11c7ff22a9230593c31604278f418444.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "samsung.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "samsung.co.uk",
+        "samsung.com"
+      ]
+    },
+    "selfridges": {
+      "slug": "selfridges",
+      "name": "Selfridges",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/selfridges/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was up to 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_55464.7bc986f268abdda067ac2e41a31081441d896909.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "selfridges.com"
+      ],
+      "domain_source": "override"
+    },
+    "sephora-uk": {
+      "slug": "sephora-uk",
+      "name": "Sephora UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/sephora-uk/",
+      "rate_text": "Up to 15 Avios / £1",
+      "was_rate": "Was up to 7 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_30151.0dbb393b916fed9237333996178a56493cd86c91.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "sephora.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "sephora.co.uk",
+        "sephora.com"
+      ]
+    },
+    "shein-uk": {
+      "slug": "shein-uk",
+      "name": "SHEIN UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/shein-uk/",
+      "rate_text": "Up to 25 Avios / £1",
+      "was_rate": "Was up to 15 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_388535.831e0517c2a584b19d53bcc1d2f44bb385cf48c0.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "shein.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "shein.co.uk",
+        "shein.com"
+      ]
+    },
+    "sim-local-uk": {
+      "slug": "sim-local-uk",
+      "name": "Sim Local UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/sim-local-uk/",
+      "rate_text": "20 Avios / £1",
+      "was_rate": "Was 10 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_557535.e9ade48770d9b014f27dd5ba926886868245b64338c080a79ef4ea8cd740b89d.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "simlocal.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "simlocal.co.uk",
+        "simlocal.com",
+        "sim-local.com",
+        "sim-local.co.uk"
+      ]
+    },
+    "space-nk-uk": {
+      "slug": "space-nk-uk",
+      "name": "Space NK UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/space-nk-uk/",
+      "rate_text": "Up to 9 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_78564.2fd44e7398ee708deb026c0a3332c8ea012c5d49.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "spacenk.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "spacenk.co.uk",
+        "spacenk.com",
+        "space-nk.com",
+        "space-nk.co.uk"
+      ]
+    },
+    "sportsdirect": {
+      "slug": "sportsdirect",
+      "name": "SportsDirect",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/sportsdirect/",
+      "rate_text": "Up to 6 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_143.1e6f39a9ad66d07e7a3ae0f1555488d3c60be413.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "sportsdirect.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "sportsdirect.com",
+        "sportsdirect.co.uk"
+      ]
+    },
+    "sunglass-hut-uk": {
+      "slug": "sunglass-hut-uk",
+      "name": "Sunglass Hut UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/sunglass-hut-uk/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_109248.e8f76173a2fdcb25edc976dcb392b433b452fa67.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "sunglasshut.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "sunglasshut.co.uk",
+        "sunglasshut.com",
+        "sunglass-hut.com",
+        "sunglass-hut.co.uk"
+      ]
+    },
+    "sunspel": {
+      "slug": "sunspel",
+      "name": "Sunspel",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/sunspel/",
+      "rate_text": "Up to 8 Avios / £1",
+      "was_rate": "Was up to 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_514485.cd5a2a0ecde7a1fda8fefa0ffe1e8d9b6a6bcf0f.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "sunspel.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "sunspel.com",
+        "sunspel.co.uk"
+      ]
+    },
+    "superdrug": {
+      "slug": "superdrug",
+      "name": "Superdrug",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/superdrug/",
+      "rate_text": "Up to 6 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_391.53d5d6365973a162071c6c1e9fc80d97bc3f95a5f6734e89de9741ca4ddf5eaf.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "superdrug.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "superdrug.com",
+        "superdrug.co.uk"
+      ]
+    },
+    "swift-direct-blinds": {
+      "slug": "swift-direct-blinds",
+      "name": "Swift Direct Blinds",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/swift-direct-blinds/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_209328.39614dfa42d894165c65a05c21e61d45c02710f7.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "swiftdirectblinds.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "swiftdirectblinds.com",
+        "swiftdirectblinds.co.uk",
+        "swift-direct-blinds.com",
+        "swift-direct-blinds.co.uk"
+      ]
+    },
+    "the-cotswold-company": {
+      "slug": "the-cotswold-company",
+      "name": "The Cotswold Company",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/the-cotswold-company/",
+      "rate_text": "5 Avios / £1",
+      "was_rate": "Was 1 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_204988.7870551f321c942223080ac10dca7e96076df09826314521e9a88ddcf74d1e0e.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "thecotswoldcompany.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "thecotswoldcompany.com",
+        "thecotswoldcompany.co.uk",
+        "the-cotswold-company.com",
+        "the-cotswold-company.co.uk"
+      ]
+    },
+    "the-gym-group": {
+      "slug": "the-gym-group",
+      "name": "The Gym Group",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/the-gym-group/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_498955.9eb2ea477198c2c4986d8099d53d20310974c08f.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "thegymgroup.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "thegymgroup.com",
+        "thegymgroup.co.uk",
+        "the-gym-group.com",
+        "the-gym-group.co.uk"
+      ]
+    },
+    "the-outnet-uk": {
+      "slug": "the-outnet-uk",
+      "name": "THE OUTNET UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/the-outnet-uk/",
+      "rate_text": "10 Avios / £1",
+      "was_rate": "Was 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_79594.b48dc5733b4450e2bbf16a54a3e6f334e61e17b7.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "theoutnet.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "theoutnet.co.uk",
+        "theoutnet.com",
+        "the-outnet.com",
+        "the-outnet.co.uk"
+      ]
+    },
+    "the-perfume-shop": {
+      "slug": "the-perfume-shop",
+      "name": "The Perfume Shop",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/the-perfume-shop/",
+      "rate_text": "4 Avios / £1",
+      "was_rate": "Was 2 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_297495.6e0b5b42e1a7e1f2f64051e9debf1df41cf77e50e61cd7a6698931c9d44b373c.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "theperfumeshop.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "theperfumeshop.com",
+        "theperfumeshop.co.uk",
+        "the-perfume-shop.com",
+        "the-perfume-shop.co.uk"
+      ]
+    },
+    "the-royal-mint": {
+      "slug": "the-royal-mint",
+      "name": "The Royal Mint",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/the-royal-mint/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 7 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_109358.5b3ba973b184334246cd88a9e66e5c946653849b1e56b65f3c5de5c5fda35db3.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "theroyalmint.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "theroyalmint.com",
+        "theroyalmint.co.uk",
+        "the-royal-mint.com",
+        "the-royal-mint.co.uk"
+      ]
+    },
+    "the-whisky-exchange": {
+      "slug": "the-whisky-exchange",
+      "name": "The Whisky Exchange",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/the-whisky-exchange/",
+      "rate_text": "8 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_792.d0501a9349c112c2a50b94a29e0e414b391d09c9b4b4ab5864fc39284a3bb3c9.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "thewhiskyexchange.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "thewhiskyexchange.com",
+        "thewhiskyexchange.co.uk",
+        "the-whisky-exchange.com",
+        "the-whisky-exchange.co.uk"
+      ]
+    },
+    "thistle-hotels": {
+      "slug": "thistle-hotels",
+      "name": "Thistle Hotels",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/thistle-hotels/",
+      "rate_text": "12 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1773.7314d5772144d6e0aa6e927e4ea84f3547190022ac2b2baa66c01b2f89f5e990.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "thistlehotels.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "thistlehotels.com",
+        "thistlehotels.co.uk",
+        "thistle-hotels.com",
+        "thistle-hotels.co.uk"
+      ]
+    },
+    "transport-for-wales": {
+      "slug": "transport-for-wales",
+      "name": "Transport For Wales",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/transport-for-wales/",
+      "rate_text": "5 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_386785.384d8c37dca662820c3bb4628afb9ab304714a7a.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "transportforwales.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "transportforwales.com",
+        "transportforwales.co.uk",
+        "transport-for-wales.com",
+        "transport-for-wales.co.uk"
+      ]
+    },
+    "twinings": {
+      "slug": "twinings",
+      "name": "Twinings",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/twinings/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was up to 10 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_55444.ef125649390b94cdd9bbc4fcda174269036d6b59.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "twinings.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "twinings.com",
+        "twinings.co.uk"
+      ]
+    },
+    "under-armour-uk": {
+      "slug": "under-armour-uk",
+      "name": "Under Armour UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/under-armour-uk/",
+      "rate_text": "10 Avios / £1",
+      "was_rate": "Was 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_151768.adb4e0ed5eb951a4a5ec4dbdc0515f5d65c4391b.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "underarmour.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "underarmour.co.uk",
+        "underarmour.com",
+        "under-armour.com",
+        "under-armour.co.uk"
+      ]
+    },
+    "uniqlo": {
+      "slug": "uniqlo",
+      "name": "Uniqlo",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/uniqlo/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_1734.1e65ddf31bf7cfcdde24d5ecf42b4a715e768e4f.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "uniqlo.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "uniqlo.com",
+        "uniqlo.co.uk"
+      ]
+    },
+    "uswitch-broadband": {
+      "slug": "uswitch-broadband",
+      "name": "Uswitch Broadband",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/uswitch-broadband/",
+      "rate_text": "Up to 15,000 Avios",
+      "was_rate": "Was up to 2,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_401935.d0ec199f6f152237d184bc018804077580e68c05.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "uswitchbroadband.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "uswitchbroadband.com",
+        "uswitchbroadband.co.uk",
+        "uswitch-broadband.com",
+        "uswitch-broadband.co.uk"
+      ]
+    },
+    "uswitch-car-insurance": {
+      "slug": "uswitch-car-insurance",
+      "name": "Uswitch Car Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/uswitch-car-insurance/",
+      "rate_text": "3,600 Avios",
+      "was_rate": "Was 2,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_508435.cf6b6bf49d1a12218d638219c293371c07d88da4.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "uswitchcarinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "uswitchcarinsurance.com",
+        "uswitchcarinsurance.co.uk",
+        "uswitch-car-insurance.com",
+        "uswitch-car-insurance.co.uk"
+      ]
+    },
+    "uswitch-energy": {
+      "slug": "uswitch-energy",
+      "name": "Uswitch Energy",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/uswitch-energy/",
+      "rate_text": "Up to 4,200 Avios",
+      "was_rate": "Was up to 2,800 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_336945.8c5f9a55612993d377020d7be264fa1aef37759e.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "uswitchenergy.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "uswitchenergy.com",
+        "uswitchenergy.co.uk",
+        "uswitch-energy.com",
+        "uswitch-energy.co.uk"
+      ]
+    },
+    "uswitch-home-insurance": {
+      "slug": "uswitch-home-insurance",
+      "name": "Uswitch Home Insurance",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/uswitch-home-insurance/",
+      "rate_text": "3,400 Avios",
+      "was_rate": "Was 2,000 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_508445.4f85e104d6e492d68d0417f452dd1aa337c0274c.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "uswitchhomeinsurance.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "uswitchhomeinsurance.com",
+        "uswitchhomeinsurance.co.uk",
+        "uswitch-home-insurance.com",
+        "uswitch-home-insurance.co.uk"
+      ]
+    },
+    "uswitch-mobile": {
+      "slug": "uswitch-mobile",
+      "name": "Uswitch Mobile",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/uswitch-mobile/",
+      "rate_text": "Up to 2,400 Avios",
+      "was_rate": "Was up to 1,100 Avios",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_440485.464c0515d0f5c61d3ac1dfe9ddab30ee10994c26.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "uswitchmobile.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "uswitchmobile.com",
+        "uswitchmobile.co.uk",
+        "uswitch-mobile.com",
+        "uswitch-mobile.co.uk"
+      ]
+    },
+    "verycouk": {
+      "slug": "verycouk",
+      "name": "very.co.uk",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/verycouk/",
+      "rate_text": "Up to 12 Avios / £1",
+      "was_rate": "Was up to 7 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_473.2df66448dbdde88ad7c88568e29840659670967ca1218f25f51961ede4ad8407.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "verycouk.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "verycouk.com",
+        "verycouk.co.uk"
+      ]
+    },
+    "viator-uk": {
+      "slug": "viator-uk",
+      "name": "Viator UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/viator-uk/",
+      "rate_text": "14 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_170018.f04118d2b3b5133467480ca1ffe2c64ec469ce8b370f15f52cf279a91a66b603.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "viator.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "viator.co.uk",
+        "viator.com"
+      ]
+    },
+    "viking-direct": {
+      "slug": "viking-direct",
+      "name": "Viking Direct",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/viking-direct/",
+      "rate_text": "7 Avios / £1",
+      "was_rate": "Was 5 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_1833.2661a954f317eab66ef2b67258f3644c5e7582f8.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "vikingdirect.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "vikingdirect.com",
+        "vikingdirect.co.uk",
+        "viking-direct.com",
+        "viking-direct.co.uk"
+      ]
+    },
+    "vision-express": {
+      "slug": "vision-express",
+      "name": "Vision Express",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/vision-express/",
+      "rate_text": "10 Avios / £1",
+      "was_rate": "Was 4 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_461135.cf3f25dbb4f3c7a2727eddd269bf6b3c9e221547.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "visionexpress.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "visionexpress.com",
+        "visionexpress.co.uk",
+        "vision-express.com",
+        "vision-express.co.uk"
+      ]
+    },
+    "vistaprint-uk": {
+      "slug": "vistaprint-uk",
+      "name": "Vistaprint UK",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/vistaprint-uk/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 8 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_307.6e82455fc51bb3e7d7891c75d5f4f951f129a25f.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "vistaprint.co.uk"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "vistaprint.co.uk",
+        "vistaprint.com"
+      ]
+    },
+    "walt-disney-travel-company-florida-holidays": {
+      "slug": "walt-disney-travel-company-florida-holidays",
+      "name": "Walt Disney Travel Company: Florida Holidays",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/walt-disney-travel-company-florida-holidays/",
+      "rate_text": "Up to 4 Avios / £1",
+      "was_rate": "Was up to 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_29291.29e7ab871361ee541135e9ce900ea73b34146b61a0a391716bf3a6d622beb8b6.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "waltdisneytravelcompanyfloridaholidays.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "waltdisneytravelcompanyfloridaholidays.com",
+        "waltdisneytravelcompanyfloridaholidays.co.uk",
+        "walt-disney-travel-company-florida-holidays.com",
+        "walt-disney-travel-company-florida-holidays.co.uk"
+      ]
+    },
+    "whistles": {
+      "slug": "whistles",
+      "name": "Whistles",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/whistles/",
+      "rate_text": "10 Avios / £1",
+      "was_rate": "Was 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_106814.09cafa473a6fb3948c4e6d4e0907f62f05553b04.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "whistles.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "whistles.com",
+        "whistles.co.uk"
+      ]
+    },
+    "wickes": {
+      "slug": "wickes",
+      "name": "Wickes",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/wickes/",
+      "rate_text": "3 Avios / £1",
+      "was_rate": "Was 1 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_651.3e732712f342451bb6e6f68844b52b105ca0d7a7e335681c7943e63fcc328703.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "wickes.co.uk"
+      ],
+      "domain_source": "override"
+    },
+    "wowcher": {
+      "slug": "wowcher",
+      "name": "wowcher",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/wowcher/",
+      "rate_text": "5 Avios / £1",
+      "was_rate": "Was 3 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_55944.77f608c814d5907b9dfbf92d0d5fd7099c3413ae.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "wowcher.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "wowcher.com",
+        "wowcher.co.uk"
+      ]
+    },
+    "yumove": {
+      "slug": "yumove",
+      "name": "YuMOVE",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/yumove/",
+      "rate_text": "Up to 8 Avios / £1",
+      "was_rate": "Was up to 6 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_530875.af579068685fb437af206582dcbaa1a89b821514.png",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "yumove.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "yumove.com",
+        "yumove.co.uk"
+      ]
+    },
+    "zoopluscouk": {
+      "slug": "zoopluscouk",
+      "name": "zooplus.co.uk",
+      "avios_url": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/zoopluscouk/",
+      "rate_text": "Up to 10 Avios / £1",
+      "was_rate": "Was up to 7 Avios / £1",
+      "image_url": "https://cdn.rewardengine.com/upload/merchant_featured_49.f0d1946c70034e9e9071f415ecca83da8c76f6c8.jpg",
+      "is_speedy": false,
+      "categories": [],
+      "domains": [
+        "zoopluscouk.com"
+      ],
+      "domain_source": "guess",
+      "domain_candidates": [
+        "zoopluscouk.com",
+        "zoopluscouk.co.uk"
+      ]
+    }
+  }
+}

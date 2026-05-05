@@ -1,0 +1,59 @@
+.avios-banner {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  width: min(360px, calc(100vw - 32px));
+  z-index: 2147483647;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #d5dbdb;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  background: #ffffff;
+  color: #1f2937;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  transform: translateY(-8px);
+  opacity: 0;
+  transition: opacity 160ms ease, transform 160ms ease;
+}
+
+.avios-banner.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.avios-banner-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.avios-banner-copy {
+  font-size: 13px;
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+
+.avios-banner-actions {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.avios-btn {
+  appearance: none;
+  border: none;
+  border-radius: 8px;
+  font-size: 12px;
+  padding: 7px 10px;
+  cursor: pointer;
+}
+
+.avios-btn-primary {
+  background: #0f766e;
+  color: #fff;
+}
+
+.avios-btn-subtle {
+  background: #e5e7eb;
+  color: #111827;
+}
