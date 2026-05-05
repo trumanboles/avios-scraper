@@ -46,8 +46,6 @@ function renderSkipList(items) {
 
 async function init() {
   const settings = await getSettings();
-  const mode = settings.reminderMode || "banner";
-  document.querySelector(`input[name="mode"][value="${mode}"]`).checked = true;
   document.getElementById("verified-only").checked = Boolean(settings.verifiedOnly);
   renderSkipList((settings.skipDomains || []).slice().sort());
 
@@ -56,12 +54,6 @@ async function init() {
     local.lastUpdatedTs
   )}`;
 }
-
-document.querySelectorAll('input[name="mode"]').forEach((input) => {
-  input.addEventListener("change", async (evt) => {
-    await saveSettings({ reminderMode: evt.target.value });
-  });
-});
 
 document.getElementById("verified-only").addEventListener("change", async (evt) => {
   await saveSettings({ verifiedOnly: evt.target.checked });

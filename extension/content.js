@@ -13,6 +13,15 @@ function createButton(label, className, onClick) {
   return button;
 }
 
+function formatDisplayUrl(url) {
+  try {
+    const parsed = new URL(url);
+    return parsed.hostname.replace(/^www\./, "") + parsed.pathname;
+  } catch {
+    return url || "";
+  }
+}
+
 function showBanner(payload) {
   removeBanner();
 
@@ -29,6 +38,12 @@ function showBanner(payload) {
   body.textContent = payload.isCheckout
     ? "Looks like checkout. Next time, click through Avios first to earn points."
     : `${payload.retailer.rate_text || "Earn Avios"} available at this store.`;
+
+  const details = document.createElement("div");
+  details.className = "avios-banner-copy";
+  const rateText = payload.retailer.rate_text || "Earn Avios";
+  const aviosPath = formatDisplayUrl(payload.retailer.avios_url);
+  details.textContent = `Rate: ${rateText} | Link: ${aviosPath}`;
 
   const actions = document.createElement("div");
   actions.className = "avios-banner-actions";
@@ -59,6 +74,7 @@ function showBanner(payload) {
 
   root.appendChild(title);
   root.appendChild(body);
+  root.appendChild(details);
   root.appendChild(actions);
   document.documentElement.appendChild(root);
 
@@ -68,7 +84,7 @@ function showBanner(payload) {
 
   setTimeout(() => {
     removeBanner();
-  }, 10000);
+  }, 15000);
 }
 
 chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {

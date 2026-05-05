@@ -20,7 +20,6 @@ const AFFILIATE_HOST_HINTS = [
 const CHECKOUT_HINTS = ["checkout", "basket", "cart", "payment", "order"];
 
 const DEFAULT_SETTINGS = {
-  reminderMode: "banner",
   verifiedOnly: false,
   skipDomains: [],
   remoteDataUrl: DEFAULT_REMOTE_DATA_URL
@@ -77,7 +76,8 @@ async function getSettings() {
 
 async function setSettings(patch) {
   const settings = await getSettings();
-  const next = { ...settings, ...patch };
+  const { reminderMode: _ignoredReminderMode, ...safePatch } = patch || {};
+  const next = { ...settings, ...safePatch };
   await chrome.storage.local.set({ settings: next });
   return next;
 }
@@ -225,11 +225,6 @@ async function processNavigation(details) {
 
   if (suppressed) {
     await clearTabBadge(details.tabId);
-    return;
-  }
-
-  if (settings.reminderMode === "badge") {
-    await setTabBadge(details.tabId, "✓", `${match.retailer.name} offers Avios`);
     return;
   }
 
